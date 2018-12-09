@@ -1,0 +1,6 @@
+id: mongodb
+username: admin@example.com
+password: admin123
+team: admin
+endpoint:
+  production: http://node.192.168.99.100.nip.io
